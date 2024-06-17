@@ -1,0 +1,29 @@
+@media(max-width: 768px){
+    .logo a img {
+    
+        width: 400px;
+        height: 160px;
+        
+    
+    
+    }
+
+    .container {
+        background-size: 80%;
+    }
+
+
+    .container .card-deadpool {
+        width: 400px;
+        height: 200px;
+        padding: 10px;
+    
+    }
+
+    .container .descricao-personagem {
+    
+        line-height: 2.5em;
+        font-size: 18px;
+        
+    }
+}
