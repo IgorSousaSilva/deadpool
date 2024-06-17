@@ -1,4 +1,4 @@
-# Projeto oakley
+# Projeto deadpool
 [<img src="./src/imagem/deadpool.gif" alt="tela gif">]
 
 ## Tecnologias utilizadas 
@@ -17,7 +17,7 @@ Projeto Deadpool, é um card com descrição do anti heroi da marvel.
   Dificuldades nenhuma, foi um projeto bem fácil de fazer pois ja tinha mais conhecimento quando o fiz , por isso foi bem tranquilo.
 
  ## Versão mobile
- [<img src="./src/imagem/mobile-deadpool.gif" alt="tela gif">]
+ [<img src="./src/imagem/deadpool-mobile.gif" alt="tela gif">]
 
  ## Link
  (https://igorsousasilva.github.io/deadpool/)
